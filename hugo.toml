@@ -1,7 +1,7 @@
 baseURL = 'https://adorable-banoffee-ea006c.netlify.app'
 languageCode = 'ja-jp'
 title = 'マイブログ'
-theme = 'PaperMod'
+theme = 'github.com/adityatelange/hugo-PaperMod'
 
 [params]
   mainSections = ["posts"]
