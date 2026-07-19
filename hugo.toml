@@ -1,4 +1,4 @@
-baseURL = 'https://adorable-banoffee-ea006c.netlify.app'
+baseURL = 'https://hugo-papermod-5iu.pages.dev'
 languageCode = 'ja-jp'
 title = 'マイブログ'
 theme = 'github.com/adityatelange/hugo-PaperMod'
