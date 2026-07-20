@@ -1,29 +1,4 @@
-.post-content {
-  line-height: 2;
-}
-
-.entry-content {
-  line-height: 2;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  line-height: 1.4;
-}
-
-.entry-header h2 {
-  line-height: 1.4;
-}
-
-.first-entry .entry-header h1 {
-  line-height: 1.4;
-}
-
-h1 { font-size: 1.7rem !important; }
+ h1 { font-size: 1.7rem !important; }
 h2 { font-size: 1.5rem !important; }
 h3 { font-size: 1.3rem !important; }
 h4 { font-size: 1.1rem !important; }
