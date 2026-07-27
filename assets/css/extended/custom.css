@@ -2,3 +2,19 @@
 h2 { font-size: 1.5rem !important; }
 h3 { font-size: 1.3rem !important; }
 h4 { font-size: 1.1rem !important; }
+
+
+/* 例: 画像URLの末尾に #small を付けると幅300pxにする */
+img[src$='#small'] {
+    width: 300px;
+    height: auto;
+}
+
+/* 例: 画像URLの末尾に #wide を付けると画面いっぱいに広げる */
+img[src$='#wide'] {
+    display: block;
+    width: 100vw;
+    max-width: none;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
